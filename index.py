@@ -1,2 +1,2 @@
-print('Hello DevOps Engineers')
 print('Hello World')
+math.sin(20)
